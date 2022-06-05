@@ -1,2 +1,2 @@
-# go-querybuilder
-go port of sqlkata/querybuilder
+# sqlb
+sql builder written in go, inspired by sqlkata/querybuilder
